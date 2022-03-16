@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @us3-r
 - 👀 I’m interested in coding ingeneral, AI, machine learning, algorithems,
 - 🌱 I’m currently learning electro engineering at Electrotechnical and Computer Technical School and Gymnasium Ljubljana, but I will probably proceed to further educate myself in computer science.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on my mail z4nhr1@gmail.com
 
 <!---
