@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Žan</h1>
 <h3 align="center">A student from Slovenia currently studying Electrical engineering and pursuing my passion in coding.</h3>
 
-- 🔭 I’m currently working on [f1nd_thƐm](*privat repo atm*)
+- 🔭 I’m currently working on **f1nd_thƐm** *privat repo atm*
 
 - 🌱 I’m currently learning **Javascript, HTML, CSS (other Web development thingis :)**
 
