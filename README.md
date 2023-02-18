@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **f1nd_thƐm** *privat repo atm*
 
-- 🌱 I’m currently learning **Javascript, HTML, CSS (other Web development thingis :)**
+- 🌱 I’m currently learning **in-depth algorithms**
 
 - 📫 How to reach me **z4nhr1@gmail.com**
 
