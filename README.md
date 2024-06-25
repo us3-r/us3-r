@@ -8,6 +8,8 @@
 </p> -->
 - Projects:
 <br><tab> |  AI assessment aplication
+- Coding for me be like:
+<br><tab> | Write some code, code working, do some git stuff, retest code before commit, code not work...3h later...pain
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
